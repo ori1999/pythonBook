@@ -1,4 +1,7 @@
 import os
+'''
+批量生成文件夹及文件
+'''
 # for i in range(1,12):
 #     if len(str(i)) == 1:
 #         os.mkdir(f'chapter_0{i}')
