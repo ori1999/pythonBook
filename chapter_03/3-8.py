@@ -1,0 +1,15 @@
+want_place = ['beijing','shanghai','nanjing','shenzhen','guangzhou']
+print(want_place)
+print(sorted(want_place))
+print(want_place)
+print(sorted(want_place,reverse=True))
+print(want_place)
+want_place.reverse()
+print(want_place)
+want_place.reverse()
+print(want_place)
+want_place.sort()
+print(want_place)
+want_place.sort(reverse=True)
+print(want_place)
+
